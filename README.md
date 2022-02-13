@@ -6,8 +6,8 @@ The purpose of this project is to see if the bike rental business is worth inves
 
 # Results:
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+According to the link below there have been found important factors about the given data.
+- 
 # Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)

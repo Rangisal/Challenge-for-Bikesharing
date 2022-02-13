@@ -14,6 +14,11 @@ https://public.tableau.com/app/profile/marian.salgadoe/viz/Book2_16442989738460/
 After re-arranged the trip duration with the hours , minutes and seconds , following information has been found with attached link
 https://public.tableau.com/app/profile/marian.salgadoe/viz/Challenge_16447221584800/Story1?publish=yes
 
+- The peak number of users who rents the bikes for 5-6 hours 
+- The checkout times are higher for the Male comparing to the other gender
+- The peak hours and days according to the weekday analysis are Monday, Tueaday, Thursday and Friday between 5pm to 8pm, also 8am in the morning everyday.
+- More male riders are renting the bikes during the weekdays on Monday, Tuesday, Thursday and Friday
+- More subscribers are Male comparing to the other genders and peak time using the bikes are the same as above. 
 
 # Summary:
 

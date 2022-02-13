@@ -8,6 +8,10 @@ The purpose of this project is to see if the bike rental business is worth inves
 According to the link below there have been found important factors about the given data.
 https://public.tableau.com/app/profile/marian.salgadoe/viz/Book2_16442989738460/NYCCitiBike
 
+- There are 2,344,224 riders according to the data
+- The peak month is August for the rides ans peak hours during the day would be between 5pm and 7pm
+
+
 # Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)

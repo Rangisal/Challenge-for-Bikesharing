@@ -11,6 +11,9 @@ https://public.tableau.com/app/profile/marian.salgadoe/viz/Book2_16442989738460/
 - There are 2,344,224 riders according to the data
 - The peak month is August for the rides ans peak hours during the day would be between 5pm and 7pm
 
+After re-arranged the trip duration with the hours , minutes and seconds , following information has been found with attached link
+https://public.tableau.com/app/profile/marian.salgadoe/viz/Challenge_16447221584800/Story1?publish=yes
+
 
 # Summary:
 

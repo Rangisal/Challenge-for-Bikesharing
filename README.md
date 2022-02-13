@@ -5,9 +5,9 @@ The purpose of this project is to see if the bike rental business is worth inves
 
 
 # Results:
-
 According to the link below there have been found important factors about the given data.
-- 
+https://public.tableau.com/app/profile/marian.salgadoe/viz/Book2_16442989738460/NYCCitiBike
+
 # Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)

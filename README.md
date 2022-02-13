@@ -22,5 +22,9 @@ https://public.tableau.com/app/profile/marian.salgadoe/viz/Challenge_16447221584
 
 # Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-Submission
+- It is better to start the business in different cities as they show a progress in selected cities.
+- It is noticable that the peak hours are in the morning between 7 and 9 am and evening between 5pm to 8pm
+- It is importatnt find out that the custimers are using the bikes for leasure activities or biking to work. 
+- The more peak days would be Monday, Tuesday, Thursday and Friday 
+- The weekends are pretty steady and go through the whole day starting 7am to 10pm
+- It is important find out the and do an analysis of other months as well , specailly from spring months and the fall season and see if there are any increase/decrease with     the weather conditions. 
